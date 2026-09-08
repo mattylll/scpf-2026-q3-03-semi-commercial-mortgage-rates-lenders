@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mattylll.github.io/scpf-2026-q3-03-semi-commercial-mortgage-rates-lenders/sitemap.xml
